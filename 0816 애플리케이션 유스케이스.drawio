@@ -1,128 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T08:58:20.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="nAcmjuTU58LKIXLdsBpH" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T00:56:28.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="C3-yCf9E-FRePiqu4zHV" version="21.6.8" type="github">
   <diagram name="페이지-1" id="TDOl6d9EobfstHPUKOAl">
-    <mxGraphModel dx="2203" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uef1NXkE5S_NqfKrV0-E-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="430" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-1" value="번호를 입력한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="210" width="120" height="80" as="geometry" />
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-1" value="전화 번호를 입력한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-3" target="0QbX5Fnpb34Zt63eyjUE-36">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0QbX5Fnpb34Zt63eyjUE-3" target="0QbX5Fnpb34Zt63eyjUE-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-3" value="통화버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-3" value="수화기 버튼을 한 번 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-4" value="최근기록 중에 연락할 사람을 선택한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="480" width="120" height="80" as="geometry" />
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-4" target="eKKwqY3Q-uTftAgBGFwV-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0QbX5Fnpb34Zt63eyjUE-1">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-4" value="최근 통화 목록&lt;br&gt;버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="0QbX5Fnpb34Zt63eyjUE-1" edge="1" source="0QbX5Fnpb34Zt63eyjUE-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="450" as="sourcePoint" />
-            <mxPoint x="300" y="400" as="targetPoint" />
+            <mxPoint x="210" y="420" as="sourcePoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-9" target="0QbX5Fnpb34Zt63eyjUE-3">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0QbX5Fnpb34Zt63eyjUE-9" target="0QbX5Fnpb34Zt63eyjUE-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="345" y="370" as="targetPoint" />
+            <mxPoint x="210" y="420" as="sourcePoint" />
+            <mxPoint x="345" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-9" target="0QbX5Fnpb34Zt63eyjUE-4">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0QbX5Fnpb34Zt63eyjUE-9" target="0QbX5Fnpb34Zt63eyjUE-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="450" as="sourcePoint" />
-            <mxPoint x="300" y="400" as="targetPoint" />
+            <mxPoint x="210" y="420" as="sourcePoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-8" value="전화 어플을 사용하여&lt;br&gt;전화를 건다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-8" value="전화 어플을 사용하여&lt;br&gt;전화를 건다." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="40" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-9" value="휴대폰의 &lt;br&gt;전화 어플을 켠다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-9" value="휴대폰의 &lt;br&gt;전화 어플을 &lt;br&gt;실행한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="450" as="sourcePoint" />
             <mxPoint x="90" y="449.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-13" value="전화번호를 입력한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="90" width="120" height="80" as="geometry" />
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-14" value="저장된 단축번호를 &lt;br&gt;길게 누른다." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-14" value="단축번호를 입력한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="90" width="120" height="80" as="geometry" />
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-15" target="eKKwqY3Q-uTftAgBGFwV-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-15" value="연락처에서 사람 이름을 검색한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="620" width="120" height="80" as="geometry" />
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-15" value="연락처에서 사람 이름을 검색한다." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.026;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-9" target="0QbX5Fnpb34Zt63eyjUE-15">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.542;exitDx=0;exitDy=0;entryX=0.026;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="0QbX5Fnpb34Zt63eyjUE-9" target="0QbX5Fnpb34Zt63eyjUE-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="700" as="sourcePoint" />
-            <mxPoint x="335" y="700" as="targetPoint" />
+            <mxPoint x="210" y="420" as="sourcePoint" />
+            <mxPoint x="335" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-19" value="통화버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="425" width="120" height="80" as="geometry" />
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-19" target="eKKwqY3Q-uTftAgBGFwV-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.063;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0QbX5Fnpb34Zt63eyjUE-19">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-19" value="통화버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.063;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="0QbX5Fnpb34Zt63eyjUE-19" edge="1" source="0QbX5Fnpb34Zt63eyjUE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="250" as="sourcePoint" />
-            <mxPoint x="505" y="200" as="targetPoint" />
+            <mxPoint x="455" y="220" as="sourcePoint" />
+            <mxPoint x="505" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.933;exitY=0.762;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-36" target="0QbX5Fnpb34Zt63eyjUE-19">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0QbX5Fnpb34Zt63eyjUE-36" target="0QbX5Fnpb34Zt63eyjUE-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="425" as="sourcePoint" />
-            <mxPoint x="758" y="589" as="targetPoint" />
+            <mxPoint x="700" y="395" as="sourcePoint" />
+            <mxPoint x="758" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.027;entryY=0.577;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-4" target="0QbX5Fnpb34Zt63eyjUE-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="520" as="sourcePoint" />
-            <mxPoint x="580" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-26" value="음성통화를 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="355" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.061;entryY=0.741;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-15" target="0QbX5Fnpb34Zt63eyjUE-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="650" as="sourcePoint" />
-            <mxPoint x="573" y="843" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-28" value="화상통화를 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="485" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-26" value="음성통화를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="345" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-28" value="화상통화를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="475" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-29" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.342;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-1" target="0QbX5Fnpb34Zt63eyjUE-14">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-33" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.983;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eKKwqY3Q-uTftAgBGFwV-8" target="0QbX5Fnpb34Zt63eyjUE-26" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="405" y="210" as="sourcePoint" />
-            <mxPoint x="455" y="190" as="targetPoint" />
+            <mxPoint x="1049.9964068711927" y="446.7157287525383" as="sourcePoint" />
+            <mxPoint x="1237.57" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-32" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.692;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-1" target="0QbX5Fnpb34Zt63eyjUE-13">
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-34" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.925;exitY=0.838;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eKKwqY3Q-uTftAgBGFwV-8" target="0QbX5Fnpb34Zt63eyjUE-28" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="385" y="210" as="sourcePoint" />
-            <mxPoint x="443" y="171" as="targetPoint" />
+            <mxPoint x="1065.53" y="495" as="sourcePoint" />
+            <mxPoint x="1197.57" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-33" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.842;exitY=0.135;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-19" target="0QbX5Fnpb34Zt63eyjUE-26">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="862" y="434" as="sourcePoint" />
-            <mxPoint x="920" y="395" as="targetPoint" />
+        <mxCell id="0QbX5Fnpb34Zt63eyjUE-36" value="최근 발신한 번호를 &lt;br&gt;화면에 띄운다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-1" value="최근기록 중에 연락할 사람을 선택한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.549;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-9" target="0QbX5Fnpb34Zt63eyjUE-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="202" y="460" as="sourcePoint" />
+            <mxPoint x="330" y="663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-34" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.809;exitY=0.913;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0QbX5Fnpb34Zt63eyjUE-19" target="0QbX5Fnpb34Zt63eyjUE-28">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="870" y="485" as="sourcePoint" />
-            <mxPoint x="880" y="545" as="targetPoint" />
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.058;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0QbX5Fnpb34Zt63eyjUE-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="495" as="sourcePoint" />
+            <mxPoint x="780" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0QbX5Fnpb34Zt63eyjUE-36" value="최근 발신한 번호를 &lt;br&gt;화면에 띄운다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="380" width="120" height="80" as="geometry" />
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-8" value="통화가 연결된다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.233;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eKKwqY3Q-uTftAgBGFwV-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="780" as="sourcePoint" />
+            <mxPoint x="845" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-11" value="연락할 사람을 &lt;br&gt;선택한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKKwqY3Q-uTftAgBGFwV-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKKwqY3Q-uTftAgBGFwV-11" target="0QbX5Fnpb34Zt63eyjUE-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="650" as="sourcePoint" />
+            <mxPoint x="870" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
