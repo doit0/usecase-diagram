@@ -1,50 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T00:41:25.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="WUfkhjRrBPLE7C7zXZeL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T06:52:09.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="SFlusqTmxoxqpr8SP4JC" version="21.6.9" type="github">
   <diagram name="페이지-1" id="ovm_f5r4MxLYKbq3YaP4">
-    <mxGraphModel dx="2211" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2219" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="400" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-2" value="&lt;p class=&quot;0&quot;&gt;주제: ios &lt;span style=&quot;font-family:함초롬바탕;mso-fareast-font-family:함초롬바탕;&quot;&gt;시계의 알람 앱&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;5356&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-2" value="&lt;p class=&quot;0&quot;&gt;주제: ios &lt;span style=&quot;font-family:함초롬바탕;mso-fareast-font-family:함초롬바탕;&quot;&gt;시계의 알람 앱&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;5356&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="360" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-3" value="(&lt;span style=&quot;background-color: initial; font-family: 함초롬바탕;&quot;&gt;출근 시간에 맞춰 &lt;br&gt;아침 기상 알람을&lt;br&gt;맞추는 직장인&lt;/span&gt;&lt;span style=&quot;background-color: initial; letter-spacing: 0pt;&quot; lang=&quot;EN-US&quot;&gt;.&lt;/span&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-3" value="(&lt;span style=&quot;background-color: initial; font-family: 함초롬바탕;&quot;&gt;출근 시간에 맞춰 &lt;br&gt;아침 기상 알람을&lt;br&gt;맞추는 직장인&lt;/span&gt;&lt;span style=&quot;background-color: initial; letter-spacing: 0pt;&quot; lang=&quot;EN-US&quot;&gt;.&lt;/span&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eT3-V6Y7HK2aige3uAWN-4" target="eT3-V6Y7HK2aige3uAWN-5">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eT3-V6Y7HK2aige3uAWN-4" target="eT3-V6Y7HK2aige3uAWN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-4" value="기상 시간을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-4" value="기상 시간을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eT3-V6Y7HK2aige3uAWN-5" target="eT3-V6Y7HK2aige3uAWN-7">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eT3-V6Y7HK2aige3uAWN-5" target="eT3-V6Y7HK2aige3uAWN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-5" value="핸드폰을 켠다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-5" value="핸드폰을 켠다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eT3-V6Y7HK2aige3uAWN-7" target="eT3-V6Y7HK2aige3uAWN-9">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eT3-V6Y7HK2aige3uAWN-7" target="eT3-V6Y7HK2aige3uAWN-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-7" value="시계 앱을 선택한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-7" value="시계 앱을 선택한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="505" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eT3-V6Y7HK2aige3uAWN-9" target="eT3-V6Y7HK2aige3uAWN-11">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eT3-V6Y7HK2aige3uAWN-9" target="eT3-V6Y7HK2aige3uAWN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-9" value="기상 시간을 맞춘다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-9" value="알람 기능을 사용한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-11" value="핸드폰 화면을 끈다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="56ANmsVpJRNfC6BL03Vz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eT3-V6Y7HK2aige3uAWN-11" target="56ANmsVpJRNfC6BL03Vz-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eT3-V6Y7HK2aige3uAWN-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eT3-V6Y7HK2aige3uAWN-4">
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-11" value="기상 시간을 맞춘다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="426" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eT3-V6Y7HK2aige3uAWN-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="eT3-V6Y7HK2aige3uAWN-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="430" as="sourcePoint" />
             <mxPoint x="120" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="56ANmsVpJRNfC6BL03Vz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="56ANmsVpJRNfC6BL03Vz-5" target="56ANmsVpJRNfC6BL03Vz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="56ANmsVpJRNfC6BL03Vz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="56ANmsVpJRNfC6BL03Vz-5" target="56ANmsVpJRNfC6BL03Vz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="56ANmsVpJRNfC6BL03Vz-5" value="핸드폰 화면을 끈다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="56ANmsVpJRNfC6BL03Vz-7" value="취침한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="56ANmsVpJRNfC6BL03Vz-9" value="할 일을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="780" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
