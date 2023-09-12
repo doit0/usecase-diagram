@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T00:32:21.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" version="21.7.4" etag="l4pfVHFVM31pYG4PJ83T" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T08:04:35.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="Lad9-2A2qQCYVRaJzG94" version="21.7.4" type="github">
   <diagram name="페이지-1" id="knAnGEJPWI2h3G_Fuzur">
-    <mxGraphModel>
+    <mxGraphModel dx="1192" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-2" value="(권도영)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-6" value="(엄마)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-8" value="(권도영)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="1020" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-10" value="(엄마)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="32" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-13" value="주제: 엄마와의 인간관계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KJRf7U8PRMHWlbD5ESDK-1" target="KJRf7U8PRMHWlbD5ESDK-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="250" as="sourcePoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJRf7U8PRMHWlbD5ESDK-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KJRf7U8PRMHWlbD5ESDK-1" target="KJRf7U8PRMHWlbD5ESDK-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
