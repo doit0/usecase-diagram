@@ -1,0 +1,338 @@
+<mxfile host="app.diagrams.net" modified="2023-10-04T08:59:34.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="KlZEV_MTbNsI_Mn8dlnN" version="21.8.2" type="github">
+  <diagram name="페이지-1" id="W_GuoXnU9VPZzK8BfVaY">
+    <mxGraphModel dx="1353" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-1" target="Ewi4ONr6DaGeuIS63GaE-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="55" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="35" y="910" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-9" target="drnFQy5XmnM4WV22o5B0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-9" value="엘레베이터 밖에서&lt;br&gt;엘레베이터 호출버튼 앞에 선다." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-15" value="호출된 엘레베이터 안에 들어간다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-16" value="내려가는 버튼 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-18" value="올라가는 버튼 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-21" value="목적지로 이동한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-24" value="목적지를&lt;br&gt;&amp;nbsp;취소한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-25" value="열림버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="375" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-27" value="닫힘버튼을 누른다." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="375" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-29" value="비상 버튼으로&amp;nbsp;&lt;br&gt;비상 알람 보낸다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-31" value="비상 알림 취소" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="135" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-32" value="(엘레베이터 사용자)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="5" y="420" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-31" target="Ewi4ONr6DaGeuIS63GaE-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="840" as="sourcePoint" />
+            <mxPoint x="35" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-35" value="(관리자)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-36" value="비상 알람 수신" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ewi4ONr6DaGeuIS63GaE-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.006;exitY=0.584;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-36" target="Ewi4ONr6DaGeuIS63GaE-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="820" as="sourcePoint" />
+            <mxPoint x="430" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPBAZvmlNL338WjJrP5A-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-36" target="Ewi4ONr6DaGeuIS63GaE-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1070" as="sourcePoint" />
+            <mxPoint x="775" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPBAZvmlNL338WjJrP5A-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-31" target="Ewi4ONr6DaGeuIS63GaE-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427" y="783" as="sourcePoint" />
+            <mxPoint x="334" y="729" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPBAZvmlNL338WjJrP5A-13" value="엘레베이터&lt;br&gt;호출 취소한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="975" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-2" value="(시스템)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="960" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-4" value="엘레베이터를 &lt;br&gt;호출한다." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="413" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-1" target="drnFQy5XmnM4WV22o5B0-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275" y="490" as="sourcePoint" />
+            <mxPoint x="795" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-13" value="엘레베이터를&lt;br&gt;목적지까지&lt;br&gt;&amp;nbsp;올려보낸다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="795" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-14" value="엘레베이터를&lt;br&gt;목적지까지&amp;nbsp; &lt;br&gt;내려보낸다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="565" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-1" target="drnFQy5XmnM4WV22o5B0-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="650" as="sourcePoint" />
+            <mxPoint x="798" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-13" target="Ewi4ONr6DaGeuIS63GaE-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="662" y="540" as="sourcePoint" />
+            <mxPoint x="585" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.09;exitY=0.182;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-14" target="Ewi4ONr6DaGeuIS63GaE-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="785" y="520" as="sourcePoint" />
+            <mxPoint x="600" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-21" value="목적지를 선택한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-23" value="비상 버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.983;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-1" target="Ewi4ONr6DaGeuIS63GaE-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="650" as="sourcePoint" />
+            <mxPoint x="695" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-34" value="엘레베이터의 &lt;br&gt;이동을 취소한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="825" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-1" target="drnFQy5XmnM4WV22o5B0-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="895" y="590" as="sourcePoint" />
+            <mxPoint x="684" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.001;exitY=0.675;exitDx=0;exitDy=0;entryX=0.977;entryY=0.396;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-34" target="Ewi4ONr6DaGeuIS63GaE-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="671" y="650" as="sourcePoint" />
+            <mxPoint x="595" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-21" target="Ewi4ONr6DaGeuIS63GaE-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="290" as="sourcePoint" />
+            <mxPoint x="710" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.933;exitY=0.875;exitDx=0;exitDy=0;entryX=0.031;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-21" target="Ewi4ONr6DaGeuIS63GaE-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="547" y="452" as="sourcePoint" />
+            <mxPoint x="643" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.227;exitY=0.028;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-34" target="EPBAZvmlNL338WjJrP5A-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746" y="435" as="sourcePoint" />
+            <mxPoint x="642" y="462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-45" value="호출된 층까지&lt;br&gt;엘레베이터가&lt;br&gt;이동한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-48" value="버튼에 따라&lt;br&gt;엘레베이터 문이 &lt;br&gt;열려 있는 시간을 &lt;br&gt;조정한다." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-1" target="drnFQy5XmnM4WV22o5B0-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="720" as="sourcePoint" />
+            <mxPoint x="653" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-48" target="Ewi4ONr6DaGeuIS63GaE-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="548" y="834" as="sourcePoint" />
+            <mxPoint x="455" y="822" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-48" target="Ewi4ONr6DaGeuIS63GaE-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="782" as="sourcePoint" />
+            <mxPoint x="528" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-57" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-18" target="drnFQy5XmnM4WV22o5B0-4" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="860" y="610" as="sourcePoint" />
+            <mxPoint x="970" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-58" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.266;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.693;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-16" target="drnFQy5XmnM4WV22o5B0-4" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="190" as="sourcePoint" />
+            <mxPoint x="445" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-4" target="Ewi4ONr6DaGeuIS63GaE-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="540" as="sourcePoint" />
+            <mxPoint x="499" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.973;exitY=0.329;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-15" target="drnFQy5XmnM4WV22o5B0-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="862" y="392" as="sourcePoint" />
+            <mxPoint x="735" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.953;exitY=0.815;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-15" target="Ewi4ONr6DaGeuIS63GaE-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="496" as="sourcePoint" />
+            <mxPoint x="480" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.796;exitY=0.947;exitDx=0;exitDy=0;entryX=0.039;entryY=0.359;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-15" target="Ewi4ONr6DaGeuIS63GaE-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="535" as="sourcePoint" />
+            <mxPoint x="403" y="702" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.62;exitY=1.035;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-15" target="drnFQy5XmnM4WV22o5B0-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="546" as="sourcePoint" />
+            <mxPoint x="390" y="839" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.066;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-4" target="EPBAZvmlNL338WjJrP5A-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="582" y="462" as="sourcePoint" />
+            <mxPoint x="643" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-68" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.977;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-1" target="drnFQy5XmnM4WV22o5B0-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="670" as="sourcePoint" />
+            <mxPoint x="880" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-69" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="drnFQy5XmnM4WV22o5B0-45" target="drnFQy5XmnM4WV22o5B0-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="590" as="sourcePoint" />
+            <mxPoint x="907" y="263" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ewi4ONr6DaGeuIS63GaE-29" target="drnFQy5XmnM4WV22o5B0-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1010" as="sourcePoint" />
+            <mxPoint x="960" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-73" value="230921&amp;nbsp; 피드백&lt;br&gt;&lt;br&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;유스케이스의&amp;nbsp;관계가&amp;nbsp;섞인다.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;관계가&amp;nbsp;맞아떨어져야함.&amp;nbsp;systme&amp;nbsp;액터의&amp;nbsp;유스케이스에서&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;u&gt;인과관계가&amp;nbsp;혼재되&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;어있음.&amp;nbsp;인과가&amp;nbsp;이상해.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;지금&amp;nbsp;화살표가&amp;nbsp;이상함.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; font-weight: bold; color: rgb(255, 0, 0); line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;b&gt;행위&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; font-weight: bold; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;b&gt;적인&amp;nbsp;게&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&amp;nbsp;많이&amp;nbsp;섞임.&amp;nbsp;(ex:&amp;nbsp;층&amp;nbsp;이동할&amp;nbsp;때&amp;nbsp;자세한&amp;nbsp;내용들?&amp;nbsp;여러&amp;nbsp;케이스&amp;nbsp;올라가는/내리는지/호출된층은&amp;nbsp;어디인지/&amp;nbsp;중간에서&amp;nbsp;멈추는지&amp;nbsp;등등)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;(요구사항&amp;nbsp;정의서에&amp;nbsp;넣은&amp;nbsp;거를&amp;nbsp;액터가&amp;nbsp;해야할일을&amp;nbsp;다&amp;nbsp;넣어야함.)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;시스템&amp;nbsp;액터에&amp;nbsp;대한&amp;nbsp;혼선.&amp;nbsp;&amp;nbsp;액터가&amp;nbsp;뭘하는지&amp;nbsp;다&amp;nbsp;전부&amp;nbsp;기술.&amp;nbsp;포괄적인&amp;nbsp;표현보다는&amp;nbsp;자세한&amp;nbsp;표현.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;명료한&amp;nbsp;유스케이스를&amp;nbsp;해야함..&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;간단&amp;nbsp;한&amp;nbsp;게&amp;nbsp;아니라&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; font-weight: bold; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;b&gt;&lt;u&gt;세밀&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;하고&amp;nbsp;명료한&amp;nbsp;설명.&amp;nbsp;&amp;nbsp;더&amp;nbsp;쪼개야함.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;엘베의&amp;nbsp;기능을&amp;nbsp;위주로&amp;nbsp;설명할&amp;nbsp;것.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; font-style: italic; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;i&gt;ex)&amp;nbsp;엘베&amp;nbsp;앞에선다,&amp;nbsp;안에&amp;nbsp;들어간다&amp;nbsp;같은&amp;nbsp;것들은&amp;nbsp;들어가면&amp;nbsp;안됨?&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; font-style: italic; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;i&gt;사용자의&amp;nbsp;목적지를&amp;nbsp;선택한다&amp;nbsp;&amp;lt;-&amp;nbsp;이건&amp;nbsp;사실&amp;nbsp;시스템의&amp;nbsp;유스케이스인거지...&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; font-style: italic; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;i&gt;목적지까지&amp;nbsp;이동한다/엘베가&amp;nbsp;이동한다.&amp;nbsp;같은&amp;nbsp;내용인데&amp;nbsp;다른&amp;nbsp;유스케이스.&amp;nbsp;반복적으로&amp;nbsp;나오는데&amp;nbsp;이동&amp;nbsp;후&amp;nbsp;멈춤?&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; font-style: italic; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&lt;i&gt;시스템이&amp;nbsp;문&amp;nbsp;안열어줌..?&amp;nbsp;엘베&amp;nbsp;문&amp;nbsp;열어ㅕ줘..&amp;nbsp;위로&amp;nbsp;가는&amp;nbsp;깜빡이라던지&amp;nbsp;디스플레이적인&amp;nbsp;것들&amp;nbsp;시스템이&amp;nbsp;해야하는&amp;nbsp;것들&amp;nbsp;빠져있음.&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:107.917%;margin-bottom:8pt;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;둘의&amp;nbsp;입장을&amp;nbsp;다&amp;nbsp;고려해보기.&amp;nbsp;액터간의&amp;nbsp;관계성에&amp;nbsp;집착하지마.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; font-size: 10pt; line-height: 107.917%;&quot; dir=&quot;LTR&quot; lang=&quot;en-US&quot;&gt;-&amp;nbsp;화살표&amp;nbsp;관계성&amp;nbsp;명확하게&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="50" width="500" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="drnFQy5XmnM4WV22o5B0-74" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;html=1;" parent="drnFQy5XmnM4WV22o5B0-73" vertex="1">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-20" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-4" value="(시스템)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="685" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-6" value="엘레베이터를&lt;br&gt;목적지까지&lt;br&gt;보낸다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF59_c3yIpq_N1d7a7UC-3" target="yF59_c3yIpq_N1d7a7UC-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="650" as="sourcePoint" />
+            <mxPoint x="1840" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-9" value="엘레베이터 &lt;br&gt;호출 신호를 수신한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yF59_c3yIpq_N1d7a7UC-11" source="yF59_c3yIpq_N1d7a7UC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1740" y="870" as="sourcePoint" />
+            <mxPoint x="1890" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-11" value="엘레베이터 &lt;br&gt;호출 신호를 수신하지 않는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.917;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF59_c3yIpq_N1d7a7UC-9" target="yF59_c3yIpq_N1d7a7UC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1950" y="580" as="sourcePoint" />
+            <mxPoint x="2100" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.947;exitY=0.266;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF59_c3yIpq_N1d7a7UC-9" target="yF59_c3yIpq_N1d7a7UC-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1960" y="580" as="sourcePoint" />
+            <mxPoint x="2130" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-15" value="호출이 취소된 경우&lt;br&gt;중간에 엘레베이터를 멈춘다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yF59_c3yIpq_N1d7a7UC-17" source="yF59_c3yIpq_N1d7a7UC-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1980" y="681" as="sourcePoint" />
+            <mxPoint x="2156" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-17" value="엘레베이터를&amp;nbsp;&lt;br&gt;가장 최근에 들어온 &lt;br&gt;호출의 목적지에 &lt;br&gt;세운다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="750" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.345;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yF59_c3yIpq_N1d7a7UC-20" source="yF59_c3yIpq_N1d7a7UC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2222.2799999999997" y="428.55999999999995" as="sourcePoint" />
+            <mxPoint x="2496" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF59_c3yIpq_N1d7a7UC-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
