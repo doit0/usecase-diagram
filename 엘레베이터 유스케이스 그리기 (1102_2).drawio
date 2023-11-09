@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T08:55:15.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ZiHgjGSx4uj5mRcDMTYb" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-09T08:55:21.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ZBvRg1zf5Zq8LsNW4w_8" version="22.1.0" type="github" pages="2">
   <diagram id="w0qpV2vSeM4WsdXuYDvo" name="페이지-2">
     <mxGraphModel dx="825" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -741,6 +741,27 @@
         </mxCell>
         <mxCell id="wrJFZxj9iG2YzjjQvF-m-1" value="&lt;div&gt;1106 유스케이스 피드백&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 요구사항 대비해서 유스케이스를 만들 때&lt;/div&gt;&lt;div&gt;요구사항 정의서의 대분류를 한 번에 그리거나 중분류를 각각&amp;nbsp; 따로 따로....&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 호출 유스케이스에 경우/취소 다 한 번에 넣어서 그리기&lt;/div&gt;&lt;div&gt;- 층선택도 결국 엘레베이터 도착으로 끝나는 것&lt;/div&gt;&lt;div&gt;- 때에 따라서 호출자/ 층선택자 로 actor 정의 바꾸는 걸 고려해볼 수 있음&lt;/div&gt;&lt;div&gt;- 비상상황에서 관리자에게 벨이 울리고 인지하고 통신하는 순서...?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1146" y="40" width="460" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KvdUfelfJNMxQ2wwT-dN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="KvdUfelfJNMxQ2wwT-dN-2" source="jntPTL7aICV2ZbusIsNX-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="1240" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvdUfelfJNMxQ2wwT-dN-2" value="엘레베이터가&lt;br&gt;목적지에 도착한다" style="ellipse;whiteSpace=wrap;html=1;container=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="833" y="1200" width="120" height="80" as="geometry">
+            <mxRectangle x="319" y="1200" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvdUfelfJNMxQ2wwT-dN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="KvdUfelfJNMxQ2wwT-dN-4" source="KvdUfelfJNMxQ2wwT-dN-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="953" y="1240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvdUfelfJNMxQ2wwT-dN-4" value="엘레베이터 &lt;br&gt;문이 열린다" style="ellipse;whiteSpace=wrap;html=1;container=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1200" width="126" height="80" as="geometry">
+            <mxRectangle x="319" y="1200" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
